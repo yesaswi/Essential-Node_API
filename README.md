@@ -1,14 +1,25 @@
 # Essential Code Snippets RESTful API
 ## Folder Structure
+
+```
 Project
 	models
-	——Mongoose Schema
+	
+	—— Mongoose Schema
+	
 	routes
+	
 	—— Routes
+	
 	.env
+	
 	server.js
+	
 	validation.js
+	
 	package.json
+
+```
 
 ## Server JS
 ```
