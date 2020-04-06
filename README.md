@@ -53,8 +53,8 @@ app.listen(3000, () => console.log(“Server Up and Running at port"));
 
 ## .env File
 ```
-DB_CONNECT = mongodb://localhost:27017/yesh
-TOKEN_SECRET = jksdjhjkdhfdk
+DB_CONNECT = mongodb://<url>
+TOKEN_SECRET = <token secret>
 ```
 
 
